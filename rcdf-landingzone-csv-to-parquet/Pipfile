@@ -6,8 +6,10 @@ name = "pypi"
 [packages]
 pyarrow = "*"
 csv2parquet = "*"
+pytest = "*"
+pandas = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.7"
